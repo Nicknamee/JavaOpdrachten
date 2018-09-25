@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f03e9d0c-ccbf-44da-9dd2-7f083976d521" name="Default Changelist" comment="">
+    <list default="true" id="f03e9d0c-ccbf-44da-9dd2-7f083976d521" name="Default Changelist" comment="Java">
+      <change afterPath="$PROJECT_DIR$/src/Hoofdstuk10/Hoofdstuk10x1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hoofdstuk10/Hoofdstuk10x3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6Praktijk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6x2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6x3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8Praktijk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8x1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8x2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8x3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHoofdstuk4/Hoofdstuk6/Hoofdstuk6x1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHoofdstuk4/Hoofdstuk6/Hoofdstuk6x1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6x1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6x1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,19 +61,39 @@
     <session id="1967681765">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="4" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="java" value="6532" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JAVA" value="6532" />
           <entry key="PLAIN_TEXT" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -70,19 +101,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6x1.java">
+        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk10/Hoofdstuk10x1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk2/Hoofdstuk2x1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,93 +113,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk2/Hoofdstuk2x2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="15" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x2.java">
+        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk10/Hoofdstuk10x3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="42" column="31" selection-end-line="44" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#67#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -205,12 +146,23 @@
         <option value="$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x6.java" />
         <option value="$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4Praktijk.java" />
         <option value="$PROJECT_DIR$/src/Hoofdstuk5/Hoofdstuk5x1.java" />
-        <option value="$PROJECT_DIR$/src/Hoofdstuk5/Hoofdstuk5x2.java" />
         <option value="$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x1.java" />
         <option value="$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x5.java" />
         <option value="$PROJECT_DIR$/src/Hoofdstuk2/Hoofdstuk4x2.java" />
         <option value="$PROJECT_DIR$/src/Hoofdstuk2/Hoofdstuk2x2.java" />
         <option value="$PROJECT_DIR$/src/Hoofdstuk2/Hoofdstuk2x1.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6x1.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk5/Hoofdstuk5x2.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6x2.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6Praktijk.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6x3.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8x1.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8x2.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8x3.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8Praktijk.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk10/Testxd.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk10/Hoofdstuk10x1.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk10/Hoofdstuk10x3.java" />
       </list>
     </option>
   </component>
@@ -221,19 +173,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-13" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="995" />
-    <option name="height" value="1047" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,16 +196,48 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Hoofdstuk4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Hoofdstuk5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Hoofdstuk6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Hoofdstuk8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Hoofdstuk10" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536313381491" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537876605812" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -272,56 +254,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.Hoofdstuk4x5">
-    <configuration name="Hoofdstuk2x1" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hoofdstuk2.Hoofdstuk2x1" />
+  <component name="RunManager" selected="Applet.Hoofdstuk10x1">
+    <configuration name="Hoofdstuk10x1" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hoofdstuk10.Hoofdstuk10x1" />
       <module name="JavaHoofdstuk4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hoofdstuk4x4" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hoofdstuk4.Hoofdstuk4x4" />
+    <configuration name="Hoofdstuk8Praktijk" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hoofdstuk8.Hoofdstuk8Praktijk" />
       <module name="JavaHoofdstuk4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hoofdstuk4x5" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hoofdstuk4.Hoofdstuk4x5" />
+    <configuration name="Hoofdstuk8x1" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hoofdstuk8.Hoofdstuk8x1" />
       <module name="JavaHoofdstuk4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hoofdstuk4x6" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hoofdstuk4.Hoofdstuk4x6" />
+    <configuration name="Hoofdstuk8x2" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hoofdstuk8.Hoofdstuk8x2" />
       <module name="JavaHoofdstuk4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hoofdstuk4x7" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hoofdstuk4.Hoofdstuk4x7" />
+    <configuration name="Hoofdstuk8x3" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hoofdstuk8.Hoofdstuk8x3" />
       <module name="JavaHoofdstuk4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Applet.Hoofdstuk4x6" />
-      <item itemvalue="Applet.Hoofdstuk4x7" />
-      <item itemvalue="Applet.Hoofdstuk4x4" />
-      <item itemvalue="Applet.Hoofdstuk2x1" />
-      <item itemvalue="Applet.Hoofdstuk4x5" />
+      <item itemvalue="Applet.Hoofdstuk8x1" />
+      <item itemvalue="Applet.Hoofdstuk8x2" />
+      <item itemvalue="Applet.Hoofdstuk8x3" />
+      <item itemvalue="Applet.Hoofdstuk8Praktijk" />
+      <item itemvalue="Applet.Hoofdstuk10x1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.Hoofdstuk4x5" />
-        <item itemvalue="Applet.Hoofdstuk2x1" />
-        <item itemvalue="Applet.Hoofdstuk4x4" />
-        <item itemvalue="Applet.Hoofdstuk4x7" />
-        <item itemvalue="Applet.Hoofdstuk4x6" />
+        <item itemvalue="Applet.Hoofdstuk10x1" />
+        <item itemvalue="Applet.Hoofdstuk8x2" />
+        <item itemvalue="Applet.Hoofdstuk8Praktijk" />
+        <item itemvalue="Applet.Hoofdstuk8x3" />
+        <item itemvalue="Applet.Hoofdstuk8x1" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +328,28 @@
       <workItem from="1536302061324" duration="7924000" />
       <workItem from="1536311613070" duration="1281000" />
       <workItem from="1536323239584" duration="300000" />
-      <workItem from="1536562574976" duration="937000" />
+      <workItem from="1536562574976" duration="9556000" />
+      <workItem from="1536649788617" duration="4593000" />
+      <workItem from="1536663325141" duration="1353000" />
+      <workItem from="1536734967696" duration="1915000" />
+      <workItem from="1536750417734" duration="599000" />
+      <workItem from="1536911427674" duration="86000" />
+      <workItem from="1536917490051" duration="902000" />
+      <workItem from="1536920362552" duration="596000" />
+      <workItem from="1536921389983" duration="683000" />
+      <workItem from="1536923315944" duration="603000" />
+      <workItem from="1537125037042" duration="830000" />
+      <workItem from="1537170970675" duration="312000" />
+      <workItem from="1537258443989" duration="1678000" />
+      <workItem from="1537340499276" duration="1500000" />
+      <workItem from="1537353329378" duration="2218000" />
+      <workItem from="1537431862941" duration="7108000" />
+      <workItem from="1537512599133" duration="3959000" />
+      <workItem from="1537526945372" duration="1741000" />
+      <workItem from="1537771557742" duration="10447000" />
+      <workItem from="1537789867835" duration="2834000" />
+      <workItem from="1537860299071" duration="3431000" />
+      <workItem from="1537872388492" duration="3392000" />
     </task>
     <task id="LOCAL-00001" summary="Java">
       <created>1536562790350</created>
@@ -359,21 +362,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33801000" />
+    <option name="totallyTimeSpent" value="93200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.081023455" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49840763" visible="true" weight="0.09541578" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Structure" order="6" sideWeight="0.50159234" weight="0.0826226" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.318872" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48933902" visible="true" weight="0.31236443" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -381,8 +385,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.510661" side_tool="true" weight="0.31236443" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48582375" weight="0.3264642" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -404,6 +408,18 @@
     <MESSAGE value="Java" />
     <option name="LAST_COMMIT_MESSAGE" value="Java" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8x2.java</url>
+          <line>9</line>
+          <properties field="Vrouwen" class="Hoofdstuk8.Hoofdstuk8x2" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/applet/Applet.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -412,72 +428,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4Praktijk.java">
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk2/Hoofdstuk4x2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="50" selection-end-column="1" />
+        <state relative-caret-position="187">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk5/Hoofdstuk5x1.java">
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk7.java" />
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk8.java" />
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6x1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6Praktijk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Hoofdstuk5/Hoofdstuk5x2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="357">
+          <caret line="23" column="35" selection-end-line="23" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk2/Hoofdstuk4x2.java" />
-    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6x1.java">
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6x3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk2/Hoofdstuk2x1.java">
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk6/Hoofdstuk6x2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="391">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="42" column="31" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4Praktijk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -488,42 +501,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Hoofdstuk4x4.java">
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8x2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="42" column="31" selection-end-line="44" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8x3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8Praktijk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk8/Hoofdstuk8x1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk2/Hoofdstuk2x1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Hoofdstuk2/Hoofdstuk2x2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="340">
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk5/Hoofdstuk5x1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk10/Testxd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk10/Hoofdstuk10x1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk10/Hoofdstuk10x3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
