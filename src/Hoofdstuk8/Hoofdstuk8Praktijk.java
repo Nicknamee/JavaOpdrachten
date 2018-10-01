@@ -18,10 +18,10 @@ public class Hoofdstuk8Praktijk extends Applet {
         tekstvak2 = new TextField(12);
         add(tekstvak2);
 
-        Button keer = new Button(" * ");
-        keerListener kl = new keerListener();
-        keer.addActionListener(kl);
-        add(keer);
+        Button X = new Button(" * ");
+        XListener kl = new XListener();
+        X.addActionListener(kl);
+        add(X);
 
         Button deel = new Button(" / ");
         deelListener dl = new deelListener();
@@ -44,7 +44,7 @@ public class Hoofdstuk8Praktijk extends Applet {
         g.drawString(schermtekst, 20, 60);
     }
 
-    class keerListener implements ActionListener {
+    class XListener implements ActionListener {
         public void actionPerformed( ActionEvent e ) {
             double num1 = Double.parseDouble(tekstvak.getText());
             double num2 = Double.parseDouble(tekstvak2.getText());
@@ -96,7 +96,7 @@ public class Hoofdstuk8Praktijk extends Applet {
     }
 
 
-    private static double round(double value) {
+    static double round(double value) {
 
         long factor = (long) Math.pow(10, 2);
         value = value * factor;

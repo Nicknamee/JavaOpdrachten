@@ -5,7 +5,7 @@ import java.applet.*;
 import java.awt.event.*;
 
 
-public class Hoofdstuk10x1 extends Applet {
+public class Hoofdstuk10x1en10x2 extends Applet {
 
     int leeftijd, hoogstegetal, laagstegetal;
     TextField tekstvak;

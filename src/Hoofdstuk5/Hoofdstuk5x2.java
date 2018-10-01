@@ -2,7 +2,6 @@ package Hoofdstuk5;
 
 import java.applet.*;
 import java.awt.*;
-import java.text.Normalizer;
 
 public class Hoofdstuk5x2 extends Applet {
     int Valery;
