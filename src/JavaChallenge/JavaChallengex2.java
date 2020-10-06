@@ -1,6 +1,4 @@
 package JavaChallenge;
-
-// Deze challenge werkt niet//
 import java.applet.*;
 import java.awt.event.*;
 import java.awt.*;
@@ -9,6 +7,8 @@ import java.awt.*;
 public class JavaChallengex2 extends Applet {
     double totaal,omzet,fris2,bier2,wijn2,koffie2,bindes2 ,buides2;
     Button fris,bier,wijn,koffie,bindes,buides,nieuw;
+    
+    
 //Fris € 2,25
 //Bier: € 2,50
 //Wijn: € 2,75
